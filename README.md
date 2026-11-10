@@ -9,6 +9,12 @@ npm install
 npm run dev
 ```
 
+## Comando playwright
+```bash
+npm test
+npm report
+npm report:ui
+```
 Abre `http://localhost:3000/login`.
 
 ## Credenciales
