@@ -7,7 +7,9 @@
     "dev": "next dev",
     "build": "next build",
       "start": "next start",
-      "test": "playwright test"
+      "test": "playwright test",
+      "report": "npx playwright show-report",
+      "report:ui": "npx playwright test --ui"
 
   },
   "dependencies": {
